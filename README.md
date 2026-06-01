@@ -62,9 +62,9 @@ Voici les projets que j'ai réalisés pour démontrer ma capacité à transforme
 
 | Année | Diplôme / Poste | Institution |
 | :--- | :--- | :--- |
-| 202X | **Master en Data Science** | Université ISM PARIS |
-| 201X | **Doctorat en Statistique et Probabilités** | Université Thomas Sankara |
-| 199X-202X | **Enseignant de mathématiques** | Isntitut des finances publiques nationale, Sup'Management |
+| 2020 | **Master en Data Science** | Université ISM PARIS |
+| 2025 | **Doctorat en Statistique et Probabilités** | Université Thomas Sankara |
+| Dépuis 2010 | **Enseignant de mathématiques** | Isntitut des finances publiques nationale, Sup'Management |
 
 ---
 
